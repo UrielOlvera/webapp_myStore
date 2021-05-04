@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "cocacola",
+        "telefono": "1818181818",
+        "direccion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "id": 2,
+        "nombre": "lala",
+        "telefono": "2020202020",
+        "direccion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "id": 3,
+        "nombre": "bimbo",
+        "telefono": "1515151515",
+        "direccion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "id": 4,
+        "nombre": "proveedor4",
+        "telefono": "3232323232",
+        "direccion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "id": 5,
+        "nombre": "proveedor5",
+        "telefono": "5858585858",
+        "direccion": "Lorem ipsum dolor sit amet."
+    }
+]

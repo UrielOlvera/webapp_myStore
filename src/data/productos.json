@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "naranja",
+        "stock": "40",
+        "unidad": "kg",
+        "precio": "12",
+        "categoria": "Frutas"
+    },
+    {
+        "id": 2,
+        "nombre": "manzana",
+        "stock": "20",
+        "unidad": "kg",
+        "precio": "14",
+        "categoria": "Frutas"
+    }
+]
